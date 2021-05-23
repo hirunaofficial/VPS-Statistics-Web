@@ -15,3 +15,8 @@ VPS Statistics Web 📊 can analyze Youre System Informations(OS, Host Name, Rel
 * CPU Informations and CPU Usage
 * RAM Usage
 * HDD Usage
+
+#How to Install VPS Statistics Web to Youre VPS ? (Automatic Installer)
+* wget https://github.com/hirunaofficial/VPS-Statistics-Web/blob/main/install.sh
+* chmod -R 777 install.sh
+* ./install.sh
