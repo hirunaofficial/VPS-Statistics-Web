@@ -1,7 +1,7 @@
 <h1 align="center">VPS Statistics Web</h3>
 <p align="center">
   <a href="https://github.com/hirunaofficial/VPS-Statistics-Web">
-    <img src="https://telegra.ph/file/06006f7c91d119d7fd964.jpg" alt="Cover Image" width="650">
+    <img src="https://socialify.git.ci/hirunaofficial/VPS-Statistics-Web/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
 </p>
 
